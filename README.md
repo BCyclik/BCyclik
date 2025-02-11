@@ -1,5 +1,6 @@
 <!-- Center align text using HTML -->
 <h1 align="center">
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" /> </p>
   Hi 👋, I'm Ilya
 </h1>
 <h2 align="center">A passionate full stack developer in Russia</h2>
@@ -20,5 +21,4 @@
                  style="height: 24px; vertical-align: middle;" />
         </a>
     </div>
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" /> </p>
 </div>
