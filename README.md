@@ -16,5 +16,5 @@
 <!-- Languages and Tools section -->
 <h2 align="center">Languages and Tools:</h2>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity3D" width="30" height="30" />
+(https://skillicons.dev/icons?i=сs,unity,cpp,unreal,vscode,vs,py,ps,blender,html,css)](https://skillicons.dev)
 </p>
