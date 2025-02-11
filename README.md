@@ -3,7 +3,7 @@
 
 <!-- Profile views widget -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ваш_логин_GitHub&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" />
 </p>
 
 ---
