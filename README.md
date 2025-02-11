@@ -8,7 +8,7 @@
 <h2 align="left">Languages and Tools</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,unity,cpp,unreal,vscode,py,ps,blender,html,docker" />
+    <img src="https://skillicons.dev/icons?i=cs,unity,cpp,unreal,vscode,py,ps,blender,html,docker,postman" />
   </a>
 </p>
 <!-- Contact section -->
