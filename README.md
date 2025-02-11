@@ -7,7 +7,7 @@
 <!-- Contact section -->
 <h2 style="display: flex; justify-content: space-between; align-items: center;">
   <span>Contact with me:</span>
-  <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" style="margin-left: auto;" /> />
 </h2>
 <p>
   <a href="https://t.me/BCyclik">
