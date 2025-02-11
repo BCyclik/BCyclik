@@ -16,5 +16,8 @@
 <!-- Languages and Tools section -->
 <h2 align="center">Languages and Tools:</h2>
 <p>
-[![Skills](https://skillicons.dev/icons?i=сs,unity,cpp,unreal,vscode,vs,py,ps,blender,html,css,)](https://skillicons.dev)
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=сs,unity,cpp,unreal,vscode,vs,py,ps,blender,html,css,docker" />
+  </a>
 </p>
