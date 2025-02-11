@@ -8,8 +8,9 @@
 <!-- Contact section -->
 <div style="text-align: center;">
     <span style="display: block; font-size: 24px; font-weight: bold;">Contact with me</span>
-    <a href="https://t.me/BCyclik" style="display: inline-block">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="display: block;" />
+    <a href="https://t.me/BCyclik" style="display: inline-block; margin-top: 5px;">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" 
+             style="height: 24px; vertical-align: middle;" />
     </a>
 </div>
 
