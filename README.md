@@ -11,7 +11,7 @@
 <!-- Contact section -->
 ## Contact with me:
 <p>
-  <a href="https://t.me/ваш_телеграм">
+  <a href="https://t.me/@BCyclik">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Telegram_icon.svg" alt="Telegram" width="30" height="30" />
   </a>
 </p>
