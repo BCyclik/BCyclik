@@ -4,10 +4,9 @@
 </h1>
 <h2 align="center">A passionate full stack developer in Russia</h2>
 
+<img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" />
 <!-- Contact section -->
-| Contact with me: | ![Profile views](https://komarev.com/ghpvc/?username=BCyclik&color=blue) |
-|------------------|--------------------------------------------------------------------------|
-
+## Contact with me:
 <p>
   <a href="https://t.me/BCyclik">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Telegram_icon.svg" alt="Telegram" width="30" height="30" />
