@@ -18,6 +18,6 @@
 <p>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,сs,unity,cpp,unreal,vscode,vs,py,ps,blender,html,css,docker" />
+    <img src="https://skillicons.dev/icons?i=сs,unity,cpp,unreal,vscode,vs,py,ps,blender,html,docker" />
   </a>
 </p>
