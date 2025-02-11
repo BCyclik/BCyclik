@@ -6,12 +6,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" />
 <!-- Contact section -->
-<h2 align="left">Contact with me - </h2>
-<p>
+<h2 align="left">
+  Contact with me
   <a href="https://t.me/BCyclik">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="30" height="30" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-</p>
+</h2>
 
 <!-- Languages and Tools section -->
 <h2 align="left">Languages and Tools:</h2>
