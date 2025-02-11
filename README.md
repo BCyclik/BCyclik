@@ -17,12 +17,9 @@
 
 <!-- Languages and Tools section -->
 <h2 align="left">Languages and Tools</h2>
-<p>
-  <p align="left">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,unity,cpp,unreal,vscode,py,ps,blender,html,docker" />
   </a>
 </p>
-<h1 align="right">
-  <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" />
-</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" /> </p>
