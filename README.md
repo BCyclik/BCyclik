@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" />
 <!-- Contact section -->
-## Contact with me:
+<h2 align="center">Contact with me:</h2>
 <p>
   <a href="https://t.me/BCyclik">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Telegram_icon.svg" alt="Telegram" width="30" height="30" />
@@ -14,7 +14,7 @@
 </p>
 
 <!-- Languages and Tools section -->
-## Languages and Tools:
+<h2 align="center">Languages and Tools:</h2>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity3D" width="30" height="30" />
 </p>
