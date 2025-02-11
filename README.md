@@ -1,7 +1,7 @@
 <!-- Center align text using HTML -->
 <h1 align="center">
   Hi 👋, I'm Rodionov Ilya
-  <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" style="vertical-align: middle; margin-left: 10px;" />
+  <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" style="float: right; margin-left: 10px; vertical-align: middle;" />
 </h1>
 <h2 align="center">A passionate full stack developer in Russia</h2>
 
