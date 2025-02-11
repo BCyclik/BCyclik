@@ -2,9 +2,7 @@
 <h1 align="center" style="margin-bottom: -25px;">
   Hi 👋, I'm Rodionov Ilya
 </h1>
-<p align="right" style="margin: 0;">
-  <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" style="float: right; margin-left: 10px; vertical-align: middle;" />
 
 <h2 align="center">A passionate full stack developer in Russia</h2>
 
