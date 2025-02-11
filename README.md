@@ -1,7 +1,6 @@
 <!-- Center align text using HTML -->
 <h1 align="center" style="position: relative; text-align: center;">
   Hi 👋, I'm Rodionov Ilya
-  <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" style="position: absolute; right: 10px; top: 0; vertical-align: middle;" />
 </h1>
 
 <h2 align="center">A passionate full stack developer in Russia</h2>
