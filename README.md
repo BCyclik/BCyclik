@@ -1,7 +1,7 @@
 <!-- Center align text using HTML -->
-<h1 align="center" style="display: inline-block;">
+<h1 align="center" style="display: flex; justify-content: center; align-items: center; width: 100%;">
   Hi 👋, I'm Rodionov Ilya
-  <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" style="float: right; margin-left: 10px; vertical-align: middle;" />
+  <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" style="margin-left: auto; vertical-align: middle;" />
 </h1>
 
 <h2 align="center">A passionate full stack developer in Russia</h2>
