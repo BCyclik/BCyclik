@@ -5,12 +5,8 @@
 <h2 align="center">A passionate full stack developer in Russia</h2>
 
 <!-- Contact section -->
-<h2 style="display: flex; justify-content: space-between; align-items: center;">
-  <span>Contact with me:</span>
-  <span style="margin-left: auto;">
-    <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" />
-  </span>
-</h2>
+| Contact with me: | ![Profile views](https://komarev.com/ghpvc/?username=BCyclik&color=blue) |
+|------------------|--------------------------------------------------------------------------|
 
 <p>
   <a href="https://t.me/BCyclik">
