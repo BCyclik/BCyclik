@@ -1,8 +1,7 @@
 <!-- Center align text using HTML -->
-<h1 align="center" style="position: relative; text-align: center;">
+<h1 align="center">
   Hi 👋, I'm Rodionov Ilya
 </h1>
-
 <h2 align="center">A passionate full stack developer in Russia</h2>
 
 <!-- Contact section -->
