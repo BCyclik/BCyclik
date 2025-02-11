@@ -1,12 +1,10 @@
 <!-- Center align text using HTML -->
 <h1 align="center">Hi 👋, I'm Rodionov Ilya</h1>
-# <h1 align="center">A passionate full stack developer in Russia</h1>
+<h2 align="center">A passionate full stack developer in Russia</h2>
 <!-- Profile views widget -->
-<p align="center">
+<h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" />
-</p>
-
----
+</h2>
 
 <!-- Contact section -->
 ## Contact with me:
@@ -15,8 +13,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Telegram_icon.svg" alt="Telegram" width="30" height="30" />
   </a>
 </p>
-
----
 
 <!-- Languages and Tools section -->
 ## Languages and Tools:
