@@ -14,7 +14,7 @@
 </p>
 
 <!-- Languages and Tools section -->
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools:</h2>
 <p>
   <p align="left">
   <a href="https://skillicons.dev">
