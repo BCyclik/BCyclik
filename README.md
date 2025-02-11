@@ -7,8 +7,8 @@
 <h2 align="center">A passionate full stack developer in Russia</h2>
 
 <!-- Contact section -->
-## Contact with me:
-<img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" style="margin-left: 10px;" />
+## Contact with me: <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" style="margin-left: 10px;" />
+
 <p>
   <a href="https://t.me/BCyclik">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Telegram_icon.svg" alt="Telegram" width="30" height="30" />
