@@ -1,5 +1,5 @@
 <!-- Center align text using HTML -->
-<h1 align="center" style="margin-bottom: -25px;">
+<h1 align="center" style="display: inline-block;">
   Hi 👋, I'm Rodionov Ilya
 </h1>
 <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" style="float: right; margin-left: 10px; vertical-align: middle;" />
