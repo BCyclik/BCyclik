@@ -23,4 +23,6 @@
     <img src="https://skillicons.dev/icons?i=cs,unity,cpp,unreal,vscode,py,ps,blender,html,docker" />
   </a>
 </p>
-<img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" />
+<h1 align="right">
+  <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" />
+</h1>
