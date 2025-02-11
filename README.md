@@ -1,10 +1,9 @@
 <!-- Center align text using HTML -->
-<h1 align="center">Hi 👋, I'm Rodionov Ilya</h1>
+<h1 align="center">
+  Hi 👋, I'm Rodionov Ilya
+  <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" style="vertical-align: middle; margin-left: 10px;" />
+</h1>
 <h2 align="center">A passionate full stack developer in Russia</h2>
-<!-- Profile views widget -->
-<h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" />
-</h2>
 
 <!-- Contact section -->
 ## Contact with me:
