@@ -20,5 +20,5 @@
                  style="height: 24px; vertical-align: middle;" />
         </a>
     </div>
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" /> </p>
+  <div align="right"> <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" /> </div>
 </div>
