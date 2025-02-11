@@ -1,6 +1,6 @@
 <!-- Center align text using HTML -->
 <h1 align="center">Hi 👋, I'm Rodionov Ilya</h1>
-
+# <h1 align="center">A passionate full stack developer in Russia</h1>
 <!-- Profile views widget -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" />
@@ -11,7 +11,7 @@
 <!-- Contact section -->
 ## Contact with me:
 <p>
-  <a href="https://t.me/@BCyclik">
+  <a href="https://t.me/BCyclik">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Telegram_icon.svg" alt="Telegram" width="30" height="30" />
   </a>
 </p>
