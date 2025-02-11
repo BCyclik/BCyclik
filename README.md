@@ -1,5 +1,5 @@
 <!-- Center align text using HTML -->
-<h1 align="center">
+<h1 align="center" style="margin-bottom: -25px;">
   Hi 👋, I'm Rodionov Ilya
 </h1>
 <p align="right" style="margin: 0;">
