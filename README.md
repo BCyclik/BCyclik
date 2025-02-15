@@ -1,7 +1,7 @@
 <!-- Center align text using HTML -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" /> </p>
 <!-- Contact section -->
-<div style="text-align: right;">
+<div style="text" align="center">
     <span style="display: block; font-size: 24px; font-weight: bold;">Contact with me</span>
     <div style="margin-top: 5px;">
         <a href="https://t.me/BCyclik">
