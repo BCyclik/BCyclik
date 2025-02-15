@@ -35,7 +35,7 @@
                 </a>
             </td>
             <td style="text-align: center;">
-                <a href="*/" target="_blank">
+                <a href="https://github.com/BCyclik/roglak/releases/tag/main" target="_blank">
                   <img src="https://img.icons8.com/?size=100&id=0WQnyqK0u4fE&format=png&color=000000" alt="X" width="20" height="20">
                 </a>
             </td>
