@@ -4,7 +4,7 @@
 <h1 align="center">
   Hi 👋, I'm Ilya
 </h1>
-<h2 align="center">developer in c# and Unity3d</h2>
+<h2 align="center">developer in C# and Unity3D</h2>
 <table>
     <thead>
         <tr>
@@ -18,12 +18,12 @@
             <td><a>BurnTheseMonsters</a></td>
             <td style="text-align: center;">
                 <a href="https://gitlab.com/triplet-games/BurnTheseCreatures" target="_blank">
-                  <img src="https://img.icons8.com/?size=100&id=CclFWjzMJys4&format=png&color=000000" alt="X" width="20" height="20">
+                  <img src="https://img.icons8.com/?size=100&id=CclFWjzMJys4&format=png&color=000000" alt="V" width="20" height="20">
                 </a>
             </td>
             <td style="text-align: center;">
                 <a href="https://yandex.ru/games/app/298353" target="_blank">
-                  <img src="https://img.icons8.com/?size=100&id=CclFWjzMJys4&format=png&color=000000" alt="X" width="20" height="20">
+                  <img src="https://img.icons8.com/?size=100&id=CclFWjzMJys4&format=png&color=000000" alt="V" width="20" height="20">
                 </a>
             </td>
         </tr>
