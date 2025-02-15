@@ -22,4 +22,5 @@
         </a>
     </div>
 </div>
-[Play "BurnTheseMonsters" on YandexGames](https://yandex.ru/games/app/298353)
+
+<div>[Play "BurnTheseMonsters" on YandexGames](https://yandex.ru/games/app/298353)</div>
