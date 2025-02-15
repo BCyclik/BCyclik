@@ -5,6 +5,13 @@
   Hi 👋, I'm Ilya
 </h1>
 <h2 align="center">developer in c# and Unity3d</h2>
+<!-- Languages and Tools section -->
+<h2 align="left">Languages and Tools</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,unity,cpp,unreal,vscode,py,ps,blender,html,docker,postman" />
+  </a>
+</p>
 <!-- Contact section -->
 <div style="text" align="left">
     <span style="display: block; font-size: 24px; font-weight: bold;">Contact with me</span>
@@ -15,12 +22,4 @@
         </a>
     </div>
 </div>
-<!-- Languages and Tools section -->
-<h2 align="left">Languages and Tools</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,unity,cpp,unreal,vscode,py,ps,blender,html,docker,postman" />
-  </a>
-</p>
-
 <a href="https://yandex.ru/games/app/298353" target="_blank">Play "BurnTheseMonsters" on YandexGames</a>
