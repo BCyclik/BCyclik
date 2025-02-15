@@ -4,9 +4,25 @@
 <h1 align="center">
   Hi 👋, I'm Ilya
 </h1>
-
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Release</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://gitlab.com/triplet-games/BurnTheseCreatures" target="_blank">BurnTheseMonsters</a></td>
+            <td><img href="https://yandex.ru/games/app/298353" src="https://example.com/cross-icon.png" alt="X" width="20" height="20"></td>
+        </tr>
+<!--         <tr>
+            <td><a href="https://games.yandex.ru/games/another-game-name" target="_blank">Другая игра</a></td>
+            <td><img src="https://example.com/cross-icon.png" alt="X" width="20" height="20"></td>
+        </tr> -->
+    </tbody>
+</table>
 <h2 align="center">developer in c# and Unity3d</h2>
-<a href="https://yandex.ru/games/app/298353" target="_blank">Play "BurnTheseMonsters" on YandexGames</a>
 <!-- Languages and Tools section -->
 <h2 align="left">Languages and Tools</h2>
 <p align="left">
