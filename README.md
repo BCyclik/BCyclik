@@ -3,7 +3,7 @@
 <h1 align="center">
   Hi 👋, I'm Ilya
 </h1>
-<h2 align="center">A passionate full stack developer in Russia</h2>
+<h2 align="center">developer in c# and Unity3d</h2>
 
 <!-- Languages and Tools section -->
 <h2 align="left">Languages and Tools</h2>
