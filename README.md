@@ -22,4 +22,4 @@
         </a>
     </div>
 </div>
-[Play "BurnTheseMonsters" on YandexGames](https://yandex.ru/games/app/298353#app-id=298353&catalog-session-uid=catalog-5e9c087b-6833-57ad-af79-392bde19915b-1739613007503-bae6&rtx-reqid=4755504522549775483&pos=%7B%22listType%22%3A%22played%22%2C%22tabCategory%22%3A%22common%22%7D&redir-data=%7B%22block%22%3A%22played%22%2C%22block_index%22%3A0%2C%22card%22%3A%22your_games%22%2C%22col%22%3A0%2C%22first_screen%22%3A1%2C%22page%22%3A%22main%22%2C%22rn%22%3A443571497%2C%22row%22%3A0%2C%22rtx_reqid%22%3A%224755504522549775483%22%2C%22same_block_index%22%3A0%2C%22wrapper%22%3A%22played_games%22%2C%22http_ref%22%3A%22https%253A%252F%252Fyandex.ru%252Fgames%252F%22%7D)
+[Play "BurnTheseMonsters" on YandexGames](https://yandex.ru/games/app/298353)
