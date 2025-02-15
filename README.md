@@ -40,9 +40,8 @@
                 </a>
             </td>
         </tr>
-<!--          https://img.icons8.com/?size=100&id=0WQnyqK0u4fE&format=png&color=000000 -- X
-              https://img.icons8.com/?size=100&id=CclFWjzMJys4&format=png&color=000000 -- V
--->
+    </tbody>
+</table>
 <!-- Languages and Tools section -->
 <h2 align="left">Languages and Tools</h2>
 <p align="left">
