@@ -1,4 +1,5 @@
 <!-- Center align text using HTML -->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" /> </p>
 <!-- Contact section -->
 <div style="text-align: center;">
     <span style="display: block; font-size: 24px; font-weight: bold;">Contact with me</span>
@@ -9,7 +10,6 @@
         </a>
     </div>
 </div>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" /> </p>
 <h1 align="center">
   Hi 👋, I'm Ilya
 </h1>
