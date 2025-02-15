@@ -5,6 +5,7 @@
   Hi 👋, I'm Ilya
 </h1>
 <h2 align="center">developer in c# and Unity3d</h2>
+<a href="https://yandex.ru/games/app/298353" target="_blank">Play "BurnTheseMonsters" on YandexGames</a>
 <!-- Languages and Tools section -->
 <h2 align="left">Languages and Tools</h2>
 <p align="left">
@@ -22,4 +23,3 @@
         </a>
     </div>
 </div>
-<a href="https://yandex.ru/games/app/298353" target="_blank">Play "BurnTheseMonsters" on YandexGames</a>
