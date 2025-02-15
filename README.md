@@ -1,9 +1,10 @@
 <!-- Center align text using HTML -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" /> </p>
 
-<a align="center">
+<div align="center">
   Hi 👋, I'm Ilya
-</a>
+</div>
+
 <h2 align="center">developer in c# and Unity3d</h2>
 <a href="https://yandex.ru/games/app/298353" target="_blank">Play "BurnTheseMonsters" on YandexGames</a>
 <!-- Languages and Tools section -->
