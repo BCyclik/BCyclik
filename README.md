@@ -1,7 +1,7 @@
 <!-- Center align text using HTML -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" /> </p>
 
-<div align="center">
+<div align="center" font-size: 24px>
   Hi 👋, I'm Ilya
 </div>
 
