@@ -22,11 +22,12 @@
             </td>
             <td style="text-align: center;">
                 <a href="https://yandex.ru/games/app/298353" target="_blank">
-                  <img src="https://img.icons8.com/?size=100&id=13903&format=png&color=000000" alt="X" width="20" height="20">
+                  <img src="https://img.icons8.com/?size=100&id=CclFWjzMJys4&format=png&color=000000" alt="X" width="20" height="20">
                 </a>
             </td>
         </tr>
-<!--         <tr>
+<!--          https://img.icons8.com/?size=100&id=13903&format=png&color=000000
+      <tr>
             <td><a href="https://games.yandex.ru/games/another-game-name" target="_blank">Другая игра</a></td>
             <td><img src="https://example.com/cross-icon.png" alt="X" width="20" height="20"></td>
         </tr> -->
