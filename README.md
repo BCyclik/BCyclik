@@ -15,7 +15,16 @@
     <tbody>
         <tr>
             <td><a>BurnTheseMonsters</a></td>
-            <td><img align="center" href="https://gitlab.com/triplet-games/BurnTheseCreatures" src="https://img.icons8.com/?size=100&id=CclFWjzMJys4&format=png&color=000000" alt="X" width="20" height="20"></td>
+            <td style="text-align: center;">
+                <a href="https://gitlab.com/triplet-games/BurnTheseCreatures" target="_blank">
+                  <img src="https://img.icons8.com/?size=100&id=CclFWjzMJys4&format=png&color=000000" alt="X" width="20" height="20">
+                </a>
+            </td>
+                      <td style="text-align: center;">
+                <a href="https://yandex.ru/games/app/298353" target="_blank">
+                  <img src="https://img.icons8.com/?size=100&id=13903&format=png&color=000000" alt="X" width="20" height="20">
+                </a>
+            </td>
             <td><img align="center" href="https://yandex.ru/games/app/298353" src="https://img.icons8.com/?size=100&id=13903&format=png&color=000000" alt="X" width="20" height="20"></td>
         </tr>
 <!--         <tr>
