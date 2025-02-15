@@ -1,4 +1,14 @@
 <!-- Center align text using HTML -->
+<!-- Contact section -->
+<div style="text-align: center;">
+    <span style="display: block; font-size: 24px; font-weight: bold;">Contact with me</span>
+    <div style="margin-top: 5px;">
+        <a href="https://t.me/BCyclik">
+            <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" 
+                 style="height: 24px; vertical-align: middle;" />
+        </a>
+    </div>
+</div>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" /> </p>
 <h1 align="center">
   Hi 👋, I'm Ilya
@@ -12,15 +22,5 @@
     <img src="https://skillicons.dev/icons?i=cs,unity,cpp,unreal,vscode,py,ps,blender,html,docker,postman" />
   </a>
 </p>
-<!-- Contact section -->
-<div style="text-align: center;">
-    <span style="display: block; font-size: 24px; font-weight: bold;">Contact with me</span>
-    <div style="margin-top: 5px;">
-        <a href="https://t.me/BCyclik">
-            <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" 
-                 style="height: 24px; vertical-align: middle;" />
-        </a>
-    </div>
-</div>
 
 <a href="https://yandex.ru/games/app/298353" target="_blank">Play "BurnTheseMonsters" on YandexGames</a>
