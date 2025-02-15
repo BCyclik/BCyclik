@@ -1,6 +1,12 @@
 <!-- Center align text using HTML -->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" /> </p>
+
+<h1 align="center">
+  Hi 👋, I'm Ilya
+</h1>
+<h2 align="center">developer in c# and Unity3d</h2>
 <!-- Contact section -->
-<div style="text" align="right">
+<div style="text" align="left">
     <span style="display: block; font-size: 24px; font-weight: bold;">Contact with me</span>
     <div style="margin-top: 5px;">
         <a href="https://t.me/BCyclik">
@@ -9,13 +15,6 @@
         </a>
     </div>
 </div>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=BCyclik&color=blue" alt="Profile views" /> </p>
-
-<h1 align="center">
-  Hi 👋, I'm Ilya
-</h1>
-<h2 align="center">developer in c# and Unity3d</h2>
-
 <!-- Languages and Tools section -->
 <h2 align="left">Languages and Tools</h2>
 <p align="left">
