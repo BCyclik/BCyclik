@@ -23,4 +23,4 @@
     </div>
 </div>
 
-<div>[Play "BurnTheseMonsters" on YandexGames](https://yandex.ru/games/app/298353)</div>
+<a href="https://yandex.ru/games/app/298353" target="_blank">Play "BurnTheseMonsters" on YandexGames</a>
