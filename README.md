@@ -13,7 +13,7 @@
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://gitlab.com/triplet-games/BurnTheseCreatures" target="_blank">BurnTheseMonsters</a></td>
+            <td><a>BurnTheseMonsters</a></td>
             <td><img href="https://yandex.ru/games/app/298353" src="https://img.icons8.com/?size=100&id=CclFWjzMJys4&format=png&color=000000" alt="X" width="20" height="20"></td>
             <td><img href="https://yandex.ru/games/app/298353" src="https://example.com/cross-icon.png" alt="X" width="20" height="20"></td>
         </tr>
