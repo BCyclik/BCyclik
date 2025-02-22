@@ -9,8 +9,8 @@
     <thead>
         <tr>
             <th>Title</th>
-            <th>Source</th>
-            <th>Release</th>
+            <th>Source(click)</th>
+            <th>Release(click)</th>
         </tr>
     </thead>
     <tbody>
