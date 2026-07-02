@@ -22,7 +22,7 @@ Passionate about building production-ready game systems and collaborating closel
 ## 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,unity,git,vscode,docker,postman"/>
+<img src="https://skillicons.dev/icons?i=cs,cpp,unity,blender,git,vscode,visualstudio,docker,postman"/>
 </p>
 
 ### Core Skills
