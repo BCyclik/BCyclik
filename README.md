@@ -75,8 +75,8 @@ Passionate about building production-ready game systems and collaborating closel
 
 | Project | Source | Release |
 |---------|:------:|:------:|
-| BurnTheseMonsters | <a href="https://gitlab.com/triplet-games/BurnTheseCreatures">🔗</a> | <a href="https://yandex.ru/games/app/298353">🎮</a> |
-| Roglak | <a href="https://github.com/BCyclik/roglak">🔗</a> | <a href="https://github.com/BCyclik/roglak/releases/tag/main">📦</a> |
+| Amedy | <a href="https://gitlab.com/wbg3/amedy">🔗</a> | <a href="/">📦</a> |
+| Roglak | <a href="https://github.com/BCyclik/roglak">🔗</a> | <a href="https://github.com/BCyclik/roglak/releases/tag/main">🎮</a> |
 
 ---
 
@@ -95,7 +95,7 @@ Passionate about building production-ready game systems and collaborating closel
 ## 📫 Contact
 
 <p>
-<a href="https://t.me/BCyclik">
+<a href="https://t.me/boyber2">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
@@ -103,7 +103,7 @@ Passionate about building production-ready game systems and collaborating closel
 <img src="https://img.shields.io/badge/GitLab-Pet%20Projects-orange?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="bcyclik22@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
